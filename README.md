@@ -1,2 +1,2 @@
 # google-homepage-zuri
-#live link: [google-homepage-task.netlify.app](google-homepage-task.netlify.app)
+#live link: [https://eligifty-coder.github.io/google-homepage-zuri/](https://eligifty-coder.github.io/google-homepage-zuri/)
